@@ -1,0 +1,8 @@
+===== SYSTEMREPORT =====
+Datum und Uhrzeit: 2026-08-31 10:46:30.515193
+Arbeitsverzeichnis: C:\Users\patri\OneDrive\Desktop\python_abschlussprojekt
+Anzahl Dateien im Projektordner: 34
+Aktueller Benutzer: paddy33\patri
+ERROR-Einträge im Log: 2
+WARN-Einträge im Log: 2
+Zusammenfassung: Warnungen oder Fehler gefunden.

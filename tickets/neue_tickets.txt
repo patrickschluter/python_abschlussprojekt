@@ -1,0 +1,12 @@
+Name: anna mueller
+Abteilung: buchhaltung
+Problem: drucker druckt nicht
+Priorität: hoch
+Status: offen
+------------------------------
+Name: patrick
+Abteilung: it
+Problem: pc fährt nicht mehr hoch
+Priorität: hoch
+Status: offen
+------------------------------

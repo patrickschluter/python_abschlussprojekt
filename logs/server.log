@@ -1,0 +1,10 @@
+2026-05-31 08:12:04 INFO Systemstart abgeschlossen
+2026-05-31 08:15:22 INFO Benutzer amueller angemeldet
+2026-05-31 08:19:41 WARN Festplattenspeicher auf Server FS01 unter 15 Prozent
+2026-05-31 08:21:09 ERROR Verbindung zur Datenbank fehlgeschlagen
+2026-05-31 08:23:55 INFO Dienst ticket-service gestartet
+2026-05-31 08:44:10 WARN Benutzer temp01 hat mehrfach falsches Passwort eingegeben
+2026-05-31 09:02:18 ERROR Backup konnte nicht abgeschlossen werden
+2026-05-31 09:10:33 INFO Benutzer mkaya angemeldet
+2026-05-31 09:18:02 FAILED VPN Authentifizierung fuer Benutzer lfischer
+2026-05-31 09:25:44 INFO Systempruefung beendet 

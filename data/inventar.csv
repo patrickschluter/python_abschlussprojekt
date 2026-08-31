@@ -1,0 +1,7 @@
+geraete_id,geraet,benutzer,abteilung,standort,status
+LAP-001,Laptop,Anna Mueller,Buchhaltung,Frankfurt,aktiv
+LAP-002,Laptop,Mehmet Kaya,Vertrieb,Raesselsheim,aktiv
+MON-003,Monitor,Sofia Wagner,IT,Mainz,defekt
+PRN-004,Drucker,Team Empfang,Empfang,Frankfurt,wartung
+LAP-005,Laptop,Jonas Weber,Support,Raesselsheim,aktiv
+TAB-006,Tablet,Lena Fischer,Aussendienst,Darmstadt,verloren 
